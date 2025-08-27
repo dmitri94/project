@@ -1,0 +1,6 @@
+assets/img/
+!.keep
+.DS_Store
+Thumbs.db
+node_modules/
+
